@@ -1,27 +1,29 @@
-# Myapp
+<h1 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+<h1 align="center">:page_with_curl:Angular Advanced</h1>
+<p>
+projeto: Sistema de aluguel de carros
+</p>
 
-## Development server
+<p align="left">
+    Projeto criado para demonstrar algumas boas práticas de programação em Angular e também ensinar algumas funcionalidades básicas e intermediárias para quem está começando ou ajudar quem ja está aprendendo.
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h3>TO-DO</h3>
+* Criação de um projeto Angular e o básico do desenvolvimento de uma apricação como componentes, serviços, CRUD, e manipulação do DOM. Já feito no repositório [Angular Basics](https://github.com/Lucas-S-Canno/Angular-Basics/tree/main), para qualquer dúvida consulte o repositório pelo link.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+*Criar uma MockAPI pelo json-server e usar no projeto.
+*Introdução ao angular 18 (Nesse projeto estou usando Angular 18.1.0)
+*Diferenças nos componentes do Angular 18
+*Diferenças nas diretivas e novas diretivas do angular 18
+*Estrutura do projeto
+*Serviços e Injeção de dependências
+*Pipes
+*Rotas (rotas básicas, lazy loading, e guards)
+*Forms (Reactive Forms e validators)
+*Diretivas personalizadas
+*Reforçando o CRUD
+*Observables e RXJS
+*Testes
