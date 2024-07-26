@@ -1,24 +1,33 @@
 {
-    "todo-list": [
+    "carros": [
       {
         "id": 1,
-        "title": "Comprar ovos",
-        "ready": false
+        "name": "Fusca",
+        "rented": false
       },
       {
         "id": 2,
-        "title": "Comprar Refrigerante",
-        "ready": true
+        "name": "Ka Bolinha",
+        "rented": true
       },
       {
         "id": 3,
-        "title": "Comprar Arroz",
-        "ready": true
+        "name": "Gol Quadrado",
+        "rented": true
+      }
+    ],
+    "clientes": [
+      {
+        "id": 1,
+        "name": "Lucas"
       },
       {
-        "id": 5,
-        "title": "Comprar Frango",
-        "ready": false
+        "id": 2,
+        "name": "Nicole"
+      },
+      {
+        "id": 3,
+        "name": "Rodrigo"
       }
     ]
   }
