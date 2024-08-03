@@ -1,0 +1,23 @@
+.nb-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+}
+
+.nb-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: .5em;
+  width: 920px;
+}
+
+.nb-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  width: 100%;
+}
